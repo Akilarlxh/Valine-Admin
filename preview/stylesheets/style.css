@@ -6,7 +6,9 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat
 }
-
+.login-button{
+  opacity: 0;
+}
 a {
   text-decoration: none;
   color: #3eb0ef;
@@ -43,7 +45,7 @@ a:hover:before {
   font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif
 }
 
-@media screen and(max-width:300px) {
+@media screen and(max-width:550px) {
   .title {
     font-size: 2rem
   }

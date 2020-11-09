@@ -43,7 +43,7 @@ a:hover:before {
   font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif
 }
 
-@media screen and(max-width:300px) {
+@media screen and(max-width:550px) {
   .title {
     font-size: 2rem
   }
